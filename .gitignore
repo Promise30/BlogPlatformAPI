@@ -3,3 +3,5 @@
 ################################################################################
 
 /BloggingPlatformAPI/BloggingAPI/Extensions/PaginationResponseFormattingMiddleware.cs
+/.gitattributes
+/BloggingPlatform.sln
